@@ -8,3 +8,31 @@ wheels/
 
 # Virtual environments
 .venv
+.env
+
+# IDEs
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# sensitive artifacts
+/data/
+/logs/
+/checkpoints/
+/ckpts/
+/weights/
+/runs/
+/wandb/
+/debug/
+/target/
+*.log
+*.pth
+*.pt
+*.onnx
+*.safetensors
+
+# artifacts
+.DS_Store
+/.ruff_cache/
+/.python-version
+/uv.lock
