@@ -36,3 +36,4 @@ wheels/
 /.ruff_cache/
 /.python-version
 /uv.lock
+/cspell.config.yaml
