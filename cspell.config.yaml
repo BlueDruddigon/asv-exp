@@ -1,0 +1,6 @@
+version: "0.2"
+language: "en-GB"
+import: ~/.config/pyproject/cspell.config.yaml
+allowCompoundWords: true
+words:
+  - ASVspoof
